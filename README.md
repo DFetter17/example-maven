@@ -1,4 +1,4 @@
-# Example Maven
+# Example Maven Project Repo
 This is a projct to show maven builds as well as general Git and GitHub workflows
 
 Here is an addition by me
